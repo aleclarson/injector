@@ -1,0 +1,14 @@
+{
+  "name": "injector",
+  "version": "1.0.0",
+  "main": "./js/src/Injector",
+  "dependencies": {
+    "NamedFunction": "aleclarson/NamedFunction#2.0.0",
+    "setType": "aleclarson/setType#1.0.0"
+  },
+  "lotus": {
+    "plugins": [
+      "lotus-coffee"
+    ]
+  }
+}
